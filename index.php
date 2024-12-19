@@ -1,4 +1,5 @@
 <?php
+//todo: rework
 $loadrss = 'https://dev98.de/feed/';
 define('TITLE', 'dev98 &#8211; a blog of the netz98 developer team');
 include ('inc/Feed.php');
